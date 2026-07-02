@@ -22,6 +22,8 @@ Browse community outfits, save favorites to your Wardrobe, review required mods,
 
 The Atelier does not redistribute mod files. Users install dependencies from their original sources and remain responsible for reviewing external links before continuing.
 
+`https://raw.githubusercontent.com/rubyblaire/TheAtelier/main/pluginmaster.json`
+
 ## Command
 
 `/atelier`

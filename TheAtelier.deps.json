@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TheAtelier/0.5.0.34": {
+        "runtime": {
+          "TheAtelier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheAtelier/0.5.0.34": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

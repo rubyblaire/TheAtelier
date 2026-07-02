@@ -1,0 +1,26 @@
+{
+  "Author": "Ruby Blaire",
+  "Name": "The Atelier",
+  "InternalName": "TheAtelier",
+  "AssemblyVersion": "0.5.0.34",
+  "Description": "An animated luxury editorial wardrobe and creator platform for discovering, publishing, curating, moderating, and applying modded glamour through Aetherweave codes. Command: /atelier",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/rubyblaire/TheAtelier",
+  "Tags": [
+    "glamour",
+    "fashion",
+    "penumbra",
+    "glamourer",
+    "mods",
+    "showcase",
+    "creator-platform"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/rubyblaire/TheAtelier/refs/heads/main/Assets/icon.png",
+  "Punchline": "Wear the look. Share the thread.",
+  "AcceptsFeedback": true
+}

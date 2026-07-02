@@ -2,7 +2,7 @@
   "Author": "Ruby Blaire",
   "Name": "The Atelier",
   "InternalName": "TheAtelier",
-  "AssemblyVersion": "0.6.0.0",
+  "AssemblyVersion": "0.6.0",
   "Description": "An animated luxury editorial wardrobe and creator platform for discovering, publishing, curating, moderating, and applying modded glamour through Aetherweave codes. Commands: /atelier, /atl",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/rubyblaire/TheAtelier",

@@ -26,6 +26,7 @@ The Atelier does not redistribute mod files. Users install dependencies from the
 
 ## Command
 
+`/atl`
 `/atelier`
 
 ## Requirements

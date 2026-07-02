@@ -2,7 +2,7 @@
   "Author": "Ruby Blaire",
   "Name": "The Atelier",
   "InternalName": "TheAtelier",
-  "AssemblyVersion": "0.6.2.1",
+  "AssemblyVersion": "0.6.2.3",
   "Description": "An animated luxury editorial wardrobe and creator platform for discovering, publishing, curating, moderating, and applying modded glamour through Aetherweave codes. Commands: /atelier, /atl",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/rubyblaire/TheAtelier",
@@ -22,6 +22,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/rubyblaire/TheAtelier/refs/heads/main/Assets/icon.png",
   "Punchline": "Wear the look. Share the thread.",
-  "Changelog": "Locks Catsune Cabaret Lifestream travel outside its Sunday 8 PM to midnight Eastern opening window.",
+  "Changelog": "Removes the automated moderation notice from the publication panel while preserving the existing review workflow.",
   "AcceptsFeedback": true
 }
